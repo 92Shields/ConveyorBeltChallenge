@@ -32,7 +32,7 @@ I have assumed that while one worker is assembling the finished product, their c
 I have assumed that the conveyor belt will begin empty and therefore begin by a new item moving along the line to be processed.
 
 ##Running the solution
-There is a folder at the solution level named "Solution Items". This contains the executable file produced from the project. Simply run the file and a cli interface will open and prompt you for your input.
+There is a folder at the solution level named "Solution Items". This contains the executable file produced from the project to run in a Windows environment. Simply run the file and a cli interface will open and prompt you for your input.
 
 Alternatively, if you have visual studio and .Net 8 installed, you can build that file.
 Right click the "ConveyorBeltChallenge" project and select "Publish".
